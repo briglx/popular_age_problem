@@ -1,6 +1,6 @@
 # Popular Age Problem
 
-There is a riddle that goes:
+There is a neat riddle that goes:
 
 > Two old friends, Jack and Bill, meet after a long time.
 >
